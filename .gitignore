@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+*.env
+
+# Python virtual environments
+venv/
+.envrc
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+hr_rag_dataset_updated.json
+se_rag_dataset.json
+tester_rag_dataset.json
+.env
+*.wav
+chroma_interview_db_v4/
