@@ -18,7 +18,7 @@ This application simulates a highly realistic interview environment. It pulls ro
 
 To keep this repository lightweight, the heavy database files and raw JSON datasets are **not** included in this repo. You must download the pre-built database to run the app.
 
-1. **Download the Database:** [INSERT YOUR DOWNLOAD LINK HERE]
+1. **Download the Database:** [https://drive.google.com/drive/folders/1E_9oFyIbh6GQE2ayY5Fwnud9-D5Ndm-O?usp=sharing]
 2. Extract the downloaded folder.
 3. Place the folder named `chroma_interview_db_v4` directly into the root directory of this project.
 
@@ -37,7 +37,7 @@ Before you begin, ensure you have Python 3.9+ installed and a free Google Gemini
 1. Clone the repository
 Bash
 ```
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone https://github.com/ovindumandith/chatbot_interview/blob/main/README.md
 cd YOUR_REPOSITORY_NAME
 ```
 3. Create a virtual environment (Highly Recommended)
