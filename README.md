@@ -37,7 +37,7 @@ Before you begin, ensure you have Python 3.9+ installed and a free Google Gemini
 1. Clone the repository
 Bash
 ```
-git clone https://github.com/ovindumandith/chatbot_interview/blob/main/README.md
+git clone https://github.com/ovindumandith/chatbot_interview/
 cd YOUR_REPOSITORY_NAME
 ```
 3. Create a virtual environment (Highly Recommended)
